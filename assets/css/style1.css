@@ -8,7 +8,7 @@ body {
     font-family: 'Lato';
     font-size: 18px;
     background: url('../images/map-bg.jpg');
-    background: cover;
+    background-image: cover;
 }
 
 
